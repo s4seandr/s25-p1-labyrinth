@@ -1,2 +1,7 @@
-# s25-p1-labyrinth
-Vorlesung Spieleprogrammierung, Sommersemester 2025, Abgabe Portfolio 1
+# Vorlesung Spieleprogrammierung, Sommersemester 2025, Abgabe Portfolio 1
+
+Dieses Repository dient lediglich als Anker für Ihre Abgabe. Sie clonen oder forken das Repository und erstellen einen Ordner mit dem Namen Ihres Github-Accounts. Innerhalb dieses Ordners befindet sich Ihre vollständige Lösung. Die Abgabe findet dann in der Form eines Pull-Requests statt. In den zurückliegenden Semestern haben wir die Rückgaben auf verschiedene Branches abgebildet. Da aber immer nur ein Branch aktiv sein kann, war es nicht so einfach, alle Lösungen parallel einzusehen. Wir hoffen, dass es mit verschiedenen Ordnern besser funktioniert. Der Zwang zum Pull-Request ermöglicht es uns, alle Abgaben (Pull-Requests) mittels eines Python-Scripts automatisiert einzusammeln. Aus diesem Grund sind andere Formen der Abgabe unzulässig: also keine Email mit der Lösung als ZIP-File oder dem Link auf das Repository, kein Invite für ein privates Repository und kein Hochladen der Lösung oder nur des Links über Studip. Ist nicht böse gemeint, erspart uns aber viele Stunden mühseliges Einsammeln aller Abgaben.
+
+Da Ihre Abgabe nach der Frist mit diesem öffentlichen Repository zusammengeführt wird, sollten Sie nur ein Minium an personenbezogenen Daten irgendwo in Ihrem Repository hinterlegen. Aus unserer Sicht reicht der Github-Name und der ist zum Glück ja kein Geheimnis. Bitte hinterlassen Sie in Ihrem eigenen Interesse keine weiteren Daten wie Matrikelnummer oder Ihre Email-Adresse.
+
+Im bereits vorhandenen Ordner Syssoft befinden sich ggf. weitere Informationen von uns. Bis zur Abgabefrist können weitere Dokumente hinzukommen, die Sie dann mittels Fetch und Pull in Ihr Repository integrieren können.
