@@ -1,0 +1,1 @@
+Github-User `Galadriel` würde in diesem Ordner ihre Lösung realisieren. Sie würde keine weiteren Ordner im Wurzelverzeichnis des Repositories erstellen. Innerhalb diese Ordners selbst kann sie aber schalten und walten wie sie möchte.
