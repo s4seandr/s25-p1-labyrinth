@@ -16,8 +16,8 @@ Die Ray-Tracing-Effekte beinhalten unter anderem:
 - Realistische Schatten
 
 #Projektstruktur
-s4seandr
 ```python
+s4seandr
 |-- readme.md      # readme-Datei über das Projekt
 |-- Bericht.pdf    # Bericht über das Projekt und die verwendeten Techniken
 |-- My project     # Unity-Projekt, mit Scenen, Materialien, etc.
