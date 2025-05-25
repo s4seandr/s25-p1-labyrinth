@@ -1,6 +1,6 @@
 # Aufgabe 1 - 3D Labyrinth mittels Ray-Tracing
 
-##Projektübersicht
+## Projektübersicht
 Zur Bearbeitung dieser Aufgabe soll ein 3D-Labyrinth mittels Ray-Tracing erstellt werden. 
 Als Engine wurde für diese Umsetzung “Unity 6” verwendet.
 
@@ -15,7 +15,7 @@ Die Ray-Tracing-Effekte beinhalten unter anderem:
 - Absorption 
 - Realistische Schatten
 
-#Projektstruktur
+# Projektstruktur
 ```python
 s4seandr
 |-- readme.md      # readme-Datei über das Projekt
