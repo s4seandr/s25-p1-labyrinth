@@ -1,4 +1,4 @@
-# Aufgabe 1 - 3D Labyrinth mittels Ray-Tracing
+# Aufgabe 1 & 2 - 3D Labyrinth mittels Ray-Tracing
 Zur Bearbeitung dieser Aufgabe soll ein 3D-Labyrinth mittels Ray-Tracing erstellt werden. 
 Als Engine wurde für diese Umsetzung “Unity 6” verwendet.
 
@@ -22,3 +22,6 @@ s4seandr
 |-- readme.md      # readme-Datei über das Projekt
 |-- Bericht.pdf    # Bericht über das Projekt und die verwendeten Techniken
 |-- My project     # Unity-Projekt, mit Scenen, Materialien, etc.
+|-- Aufgabe2       # Ordner zu Abgabe2
+    |-- Spieleprogrammierung2     # Unity-Projekt, mit Scenen, Materialien, etc.
+    |-- My project                # Bericht über das Projekt und die verwendeten Techniken
