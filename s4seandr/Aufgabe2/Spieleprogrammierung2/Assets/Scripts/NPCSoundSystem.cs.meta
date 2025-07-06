@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fe11766c14e532c4bb7303ad5bb2b997
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bodenArt1Prefab: {fileID: 7245728861674675623, guid: 838b9e222fb95694e9ea14ca64d8b323,
+      type: 3}
+  - bodenArt2Prefab: {fileID: 6707457429463433580, guid: 14151af709595ae42904886626c8844b,
+      type: 3}
+  - wandPrefab: {fileID: 6854298673674640814, guid: 86cb395b7eca31f40b491d6b79c9563d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
